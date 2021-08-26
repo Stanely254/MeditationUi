@@ -169,7 +169,7 @@ fun GreetingSection(
         ){
             Text(
                 text = "Good Morning, $name",
-                style = MaterialTheme.typography.h2,
+                style = MaterialTheme.typography.h5,
                 color = Color.White
             )
             Text(
